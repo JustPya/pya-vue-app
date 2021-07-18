@@ -1,0 +1,7 @@
+{
+  "name": "pya-vue-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
